@@ -2,3 +2,27 @@
 body{
     background: #111111;
 }
+
+
+#personcontainer{
+    height: 100%;
+    width: 100%;
+}
+
+.personText{
+    color:white;
+    font-size: 21px;
+}
+
+.fragenText{
+    color:white;
+}
+
+.antwortText{
+    color:white;
+}
+
+.personPicture {
+    width: 100px;
+    height: 100px;
+}
